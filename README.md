@@ -1,2 +1,2 @@
-# Сурсы сайта [a9fmofficial.github.io](https://a9fmofficial.github.io)
-## by [@a9fm](https://github.com/A9FMOFFICIAL) 
+# Сурсы сайта a9fm.site
+## by [@a9-fm](https://github.com/A9-FM) 
